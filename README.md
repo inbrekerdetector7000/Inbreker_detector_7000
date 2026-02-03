@@ -1,38 +1,34 @@
-# Inbreker_detector_7000
+# Inbreker_detector_7000  
+🛡️ The Ultimate Intrusion Prevention System
 
-🛡️ Het beste inbraakpreventiesysteem
-🔐 Wat is de Inbreker Detector 7000?
+## 🔐 What is the Inbreker Detector 7000?
 
-De Inbreker Detector 7000 is ons eigen slimme beveiligingssysteem, ontwikkeld als de professionele opvolger van de Inbreker Detector 5000. Het systeem combineert meerdere microcontrollers — waaronder een Raspberry Pi, Arduino en ESP32 — om een krachtig, flexibel en betrouwbaar beveiligingsplatform te vormen.
+The **Inbreker Detector 7000** is our own smart security system, developed as the professional successor to the Inbreker Detector 5000.  
+The system combines multiple microcontrollers — including a **Raspberry Pi**, **Arduino**, and **ESP32** — to create a powerful, flexible, and reliable security platform.
 
-De 7000‑versie draait op SecureWatch OS, een lichtgewicht besturingssysteem dat speciaal is geoptimaliseerd voor beveiligingstoepassingen en real‑time detectie.
+The 7000 version runs on **SecureWatch OS**, a lightweight operating system optimized for security applications and real‑time detection.
 
-🔧 Hoe werkt het systeem?
+---
 
-Sensoren meten beweging, geluid en andere verdachte activiteiten.
+## 🔧 How does the system work?
 
-Een Arduino leest de sensoren razendsnel uit.
+- **Sensors** detect movement, sound, and other suspicious activity.  
+- An **Arduino** reads the sensors at high speed.  
+- The **ESP32** handles wireless communication and fast responses.  
+- The **Raspberry Pi** acts as the central controller running SecureWatch OS.  
 
-De ESP32 verzorgt draadloze communicatie en snelle respons.
+When a detection occurs, the system can:
+- activate an alarm  
+- send an email notification  
+- log data for later analysis  
 
-De Raspberry Pi fungeert als centrale controller waarop SecureWatch OS draait.
+Together, these components form one integrated and intelligent security system.
 
-Bij een detectie kan het systeem:
+---
 
-een alarm activeren
+## 🎯 Our goals
 
-een e‑mailmelding versturen
-
-gegevens loggen voor analyse
-
-Samen vormen deze onderdelen één geïntegreerd en intelligent beveiligingssysteem.
-
-🎯 Onze doelen
-
-Het ontwikkelen van een betere en professionelere opvolger van de Inbreker Detector 5000.
-
-Het bouwen van een veilig, stabiel en betrouwbaar beveiligingssysteem.
-
-Het creëren van een modulair platform dat eenvoudig uitbreidbaar is met nieuwe sensoren en functies.
-
-Het optimaliseren van SecureWatch OS voor snelle detectie en minimale vertraging.
+- Develop a better and more professional successor to the Inbreker Detector 5000.  
+- Build a **safe, stable, and reliable** security system.  
+- Create a **modular platform** that can easily be expanded with new sensors and features.  
+- Optimize SecureWatch OS for **fast detection** and **minimal delay**.
